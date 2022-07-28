@@ -668,3 +668,11 @@ b, strong {
 a.pdf {
   text-decoration: none;
 }
+
+.devicon-github-original-wordmark:before {
+  font-size: 1.8em;
+}
+
+.devicon-linkedin-plain-wordmark:before {
+  font-size: 1.8em;
+}
